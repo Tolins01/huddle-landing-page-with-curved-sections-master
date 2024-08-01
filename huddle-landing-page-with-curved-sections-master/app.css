@@ -317,3 +317,9 @@
     background-color: hsl(321, 95%, 75%);
     transition: ease-in-out 0.3s;
 }
+
+
+
+@media (max-width:375px){
+    
+} 
