@@ -242,9 +242,6 @@
     margin-right: 8em;
 }
 
-#svg{
-    border-bottom: 10px solid  hsl(192, 100%, 9%);
-}
 
 .footer{
     display: flex;
